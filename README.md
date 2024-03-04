@@ -6,9 +6,9 @@ aliengame
 
 basic game for answering questions based on the character that user choose and you can restart the game.
 
-<!-- ## Live Demo
+## Live Demo
 
-click the link to [see the demo](https://the-wild-oasis-hotel.netlify.app) -->
+click the link to [see the demo](https://aliengame-vue-gamma.vercel.app)
 
 ## Setup
 
